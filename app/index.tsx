@@ -14,8 +14,6 @@ export default function App() {
 
         worklet.start('/app.bundle', bundle)
         const {IPC} = worklet
-        worklet.resume()
-        worklet.resume()
         worklet.suspend()
         worklet.resume()
         worklet.suspend()
