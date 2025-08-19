@@ -1,8 +1,4 @@
 ```sh 
-npm run gen:schema
-```
-
-```sh 
 npm run gen:bundle
 ```
 
